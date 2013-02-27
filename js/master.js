@@ -6,7 +6,7 @@
  * under which the program(s) have been supplied.
  *
  * $Id$
- * $Log $
+ * $Log$
  */
 /** Javascript Document
  * 
